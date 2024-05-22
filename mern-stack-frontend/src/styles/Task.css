@@ -1,0 +1,25 @@
+.task {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .task-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .task-description {
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .task-state {
+    font-size: 0.9em;
+    color: #007bff;
+  }
+  
+  .task-important {
+    color: #dc3545;
+    font-weight: bold;
+  }
+  
